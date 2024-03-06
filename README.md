@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://yashchauhan.onrender.com/assets/yash1-fkeZFJRD.png"  />
+  <img height="150" src="https://cdn-0.emojis.wiki/emoji-pics/facebook/man-technologist-facebook.png"  />
 </div>
 
 ###
