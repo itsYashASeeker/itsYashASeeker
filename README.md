@@ -59,15 +59,15 @@
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="15" />
   <img src="https://cdn.simpleicons.org/npm/CB3837" height="40" alt="npm logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/polygon/polygon-original.svg" height="40" alt="polygon logo"  />
   <img width="15" />
@@ -90,6 +90,18 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
 </div>
 
 ###
@@ -104,6 +116,8 @@
 </div>
 
 ###
+
+<p align="left">Hello World!!</p>
 
 ###
 
