@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">I'm a developer from Mumbai</p>
+<p align="left">I'm a passionate developer from Mumbai</p>
 <p align="left"><b>Blockchain</b> | <b>Web Development</b> | <b>DSA</b> | <b>Generative AI</b></p>
 
 <p align="left"><br>- 🔭 Learn<br>- 📚 Hustle<br>- ⚡ Practice</p>
