@@ -23,9 +23,23 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 I'm familiar with</h3>
 
 ###
+
+<h4>- NextJS</h4>
+<h4>- ReactJS</h4>
+<h4>- ExpressJS</h4>
+<h4>- MongoDB</h4>
+<h4>- Solidity</h4>
+<h4>- Javascript</h4>
+<h4>- Typescript</h4>
+<h4>- Python</h4>
+<h4>- Java</h4>
+<h4>- React Native</h4>
+<h4>- Flutter</h4>
+<h4>- Socket.io</h4>
+<h4>- C</h4>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
