@@ -8,7 +8,7 @@
 
 ###
 
-<p align="center">https://yashchauhan.co](https://yashchauhan.onrender.com/</p>
+<p align="center">https://yashchauhan.onrender.com/</p>
 
 ###
 
